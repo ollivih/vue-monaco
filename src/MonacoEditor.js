@@ -1,5 +1,5 @@
 import assign from 'nano-assign'
-
+test
 export default {
   name: 'MonacoEditor',
 
